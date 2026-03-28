@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Python Automation Weekly",
+    "url": "https://example.com/api/python-automation-weekly",
+    "summary": "A roundup of automation scripts for recurring office work.",
+    "tags": "automation,python"
+  },
+  {
+    "title": "AI Ops Assistant Intro",
+    "url": "https://example.com/api/ai-ops-assistant-intro",
+    "summary": "How to connect Python workflows with AI-generated summaries and follow-up action items.",
+    "tags": "ai,python,workflow"
+  }
+]

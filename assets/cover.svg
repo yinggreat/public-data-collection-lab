@@ -1,0 +1,16 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" rx="32" fill="#0B1324"/>
+  <circle cx="1090" cy="120" r="190" fill="#38BDF8" fill-opacity="0.18"/>
+  <circle cx="980" cy="500" r="230" fill="#10B981" fill-opacity="0.14"/>
+  <rect x="72" y="78" width="236" height="40" rx="20" fill="#38BDF8"/>
+  <text x="104" y="104" fill="#0B1324" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PUBLIC DATA LAB</text>
+  <text x="72" y="220" fill="#F8FAFC" font-size="64" font-family="Segoe UI, Arial, sans-serif" font-weight="800">公开数据采集实验室</text>
+  <text x="72" y="286" fill="#CBD5E1" font-size="28" font-family="Segoe UI, Arial, sans-serif">页面解析、API 清洗、结构化导出，一套仓库讲透数据获取流程</text>
+  <text x="72" y="350" fill="#94A3B8" font-size="24" font-family="Segoe UI, Arial, sans-serif">适合课程案例 / 作品集展示 / 合规教学</text>
+  <rect x="72" y="418" width="180" height="54" rx="27" fill="#08111F" stroke="#334155"/>
+  <rect x="268" y="418" width="180" height="54" rx="27" fill="#08111F" stroke="#334155"/>
+  <rect x="464" y="418" width="180" height="54" rx="27" fill="#08111F" stroke="#334155"/>
+  <text x="108" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">HTML 解析</text>
+  <text x="304" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">API 清洗</text>
+  <text x="500" y="452" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif">CSV / JSON</text>
+</svg>

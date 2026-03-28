@@ -1,0 +1,26 @@
+[
+  {
+    "title": " Python Automation Weekly ",
+    "url": "https://example.com/api/python-automation-weekly",
+    "summary": "A roundup of automation scripts for recurring office work. ",
+    "tags": ["automation", "python", "python"]
+  },
+  {
+    "title": "Public Data Pipeline Notes",
+    "url": "https://example.com/api/public-data-pipeline-notes",
+    "summary": " Notes on collecting, cleaning, and exporting public datasets for analysis. ",
+    "tags": ["data", "collection", "analysis"]
+  },
+  {
+    "title": "AI Ops Assistant Intro",
+    "url": "https://example.com/api/ai-ops-assistant-intro",
+    "summary": "How to connect Python workflows with AI-generated summaries and follow-up action items.",
+    "tags": ["ai", "workflow", "python"]
+  },
+  {
+    "title": "Python Automation Weekly",
+    "url": "https://example.com/api/python-automation-weekly",
+    "summary": "Duplicate record used to demonstrate deduplication.",
+    "tags": ["automation"]
+  }
+]

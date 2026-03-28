@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Python Automation Playbook",
+    "url": "https://example.com/articles/python-automation",
+    "summary": "A short guide to file automation, reporting, and recurring workflow design.",
+    "tags": "automation,python"
+  },
+  {
+    "title": "Public Data Collection Basics",
+    "url": "https://example.com/articles/public-data-basics",
+    "summary": "Learn page parsing, record extraction, and simple export pipelines.",
+    "tags": "data,collection"
+  },
+  {
+    "title": "Building an AI Ops Assistant",
+    "url": "https://example.com/articles/ai-ops-assistant",
+    "summary": "A workflow-oriented introduction to summary generation and follow-up suggestions.",
+    "tags": "ai,workflow"
+  }
+]
